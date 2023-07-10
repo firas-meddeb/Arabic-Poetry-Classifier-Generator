@@ -1,4 +1,4 @@
-# ArabicPoetryClassifierAndGenerator
+# Arabic Poetry Classifier And Generator
 The project consists of:
 * Study of general trends in Arabic Poetry: An analysis based on word frequency for each era.
 * Development of an AraBERT-based classifier to identify the era of an Arabic poem.
